@@ -3,7 +3,7 @@ tags:
   - WSL
   - windows
 categories:
-  - 小技巧
+  - WSL
 date: 2021-12-25 13:00:04
 ---
 WSL默认安装在C盘，为了避免占用日益紧张的C盘空间，需要修改其安装目录至其他分区。
