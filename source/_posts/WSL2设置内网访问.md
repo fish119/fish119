@@ -1,6 +1,8 @@
 title: WSL2设置内网访问
-tags: []
-categories: []
+tags:
+  - WSL
+categories:
+  - WSL
 date: 2022-01-01 15:00:26
 ---
 局域网内其他主机需要访问WSL2发布的服务时，可按下面的方法操作：

@@ -2,6 +2,7 @@ title: WSL2通过Minikube使用Kubernetes
 tags:
   - Kubernetes
   - Minikube
+  - WSL
 categories:
   - WSL
 date: 2021-12-26 19:39:07
