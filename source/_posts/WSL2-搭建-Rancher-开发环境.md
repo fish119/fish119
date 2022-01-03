@@ -4,7 +4,7 @@ tags:
   - Rancher
 categories:
   - - WSL
-    - Rancher
+  - - Rancher
 date: 2022-01-03 21:10:08
 ---
 记录在WSL2下搭建Rancher开发环境步骤。基本步骤如下：
