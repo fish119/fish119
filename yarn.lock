@@ -762,6 +762,15 @@
   dependencies:
     "nunjucks" "^3.2.2"
 
+"hexo-generator-sitemap@^2.2.0":
+  "integrity" "sha512-WoS/GpdrazoiFuhZXS3Qnb22L0uaiKHHWefcsoE7JLjh8WsksFom4v2FoNhr1RIYwFV7SudQFs91P5xcW+Gfow=="
+  "resolved" "https://registry.npmmirror.com/hexo-generator-sitemap/download/hexo-generator-sitemap-2.2.0.tgz"
+  "version" "2.2.0"
+  dependencies:
+    "hexo-util" "^2.1.0"
+    "micromatch" "^4.0.2"
+    "nunjucks" "^3.1.6"
+
 "hexo-generator-tag@^1.0.0":
   "integrity" "sha1-VOwj3pQJx1WE6oHjYFelkDGwIvE="
   "resolved" "https://registry.npm.taobao.org/hexo-generator-tag/download/hexo-generator-tag-1.0.0.tgz"
@@ -1225,7 +1234,7 @@
   "resolved" "https://registry.npm.taobao.org/normalize-path/download/normalize-path-3.0.0.tgz"
   "version" "3.0.0"
 
-"nunjucks@^3.0.0", "nunjucks@^3.2.1", "nunjucks@^3.2.2":
+"nunjucks@^3.0.0", "nunjucks@^3.1.6", "nunjucks@^3.2.1", "nunjucks@^3.2.2":
   "integrity" "sha1-GzNhUkcpDpTigmO12FXs52VkijE="
   "resolved" "https://registry.npmmirror.com/nunjucks/download/nunjucks-3.2.3.tgz"
   "version" "3.2.3"
