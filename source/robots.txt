@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /css/
-Disallow:  /vendors/
-Disallow: /fancybox/
-Sitemap: https://fish119.tk/sitemap.xml
+
+Sitemap: http://www.example.com/sitemap.xml
