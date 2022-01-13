@@ -3,4 +3,4 @@ Allow: /
 Disallow: /css/
 Disallow:  /vendors/
 Disallow: /fancybox/
-Sitemap: https://fish119.vercel.app/sitemap.xml
+Sitemap: https://fish119.tk/sitemap.xml
