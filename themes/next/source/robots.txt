@@ -4,3 +4,4 @@ Allow: /
 Sitemap: http://fish119.tk/sitemap.xml
 Sitemap: http://fish119.tk/sitemap01.xml
 Sitemap: http://fish119.tk/sitemap02.xml
+Sitemap: http://fish119.tk/baidusitemap.xml

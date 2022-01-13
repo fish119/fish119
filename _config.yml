@@ -102,7 +102,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: baidu_url_submitter
 
 search:
   path: search.xml
@@ -126,3 +126,11 @@ feed:
 
 sitemap:
   path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+
+baidu_url_submit:
+  count: 5
+  host: https://fish119.tk
+  token: C5vqINCZs8T5q0VY
+  path: baidu_urls.txt
