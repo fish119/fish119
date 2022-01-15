@@ -130,7 +130,7 @@ baidusitemap:
   path: baidusitemap.xml
 
 baidu_url_submit:
-  count: 5
+  count: 100
   host: https://fish119.tk
   token: C5vqINCZs8T5q0VY
   path: baidu_urls.txt
