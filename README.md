@@ -4,7 +4,7 @@
 
 [Local Admin Url](http://localhost:4000/bridge)
 
-[Visite](https://fish119.tk)
+[Visite](https://fish119.vercel.app)
 
 [Deploy: vercel](https://vercel.com/dashboard)
 
