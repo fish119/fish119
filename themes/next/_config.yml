@@ -463,7 +463,7 @@ bing_site_verification:
 
 # Yandex Webmaster tools verification.
 # See: https://webmaster.yandex.ru
-yandex_site_verification:
+yandex_site_verification: 3e679250139da9f3
 
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
