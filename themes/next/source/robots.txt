@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fish119.vercel.app/sitemap.xml
-Sitemap: https://fish119.vercel.app/baidusitemap.xml
+Sitemap: https://fish119.tk/sitemap.xml
+Sitemap: https://fish119.tk/baidusitemap.xml
