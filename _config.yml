@@ -31,6 +31,7 @@ i18n_dir: :lang
 skip_render:
   - baidu_verify_code-l0K2gaGD3Y.html
   - google4418ff0fee0ef2e2.html
+  - ByteDanceVerify.html
 
 # Writing
 new_post_name: :title.md # File name of new posts
