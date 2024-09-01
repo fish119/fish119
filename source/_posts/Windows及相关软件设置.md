@@ -5,6 +5,8 @@ categories:
   - 小技巧
 date: 2024-09-01 12:11:18
 ---
+记录Windows及相关软件设置，以备重装系统后使用
+<!--more-->
 ## Windows 11 传统右键菜单
 cmd 以管理员身份运行下列代码，完成后重启
 ```reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
