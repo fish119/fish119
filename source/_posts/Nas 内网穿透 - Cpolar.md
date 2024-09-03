@@ -17,7 +17,7 @@ date: 2024-09-03 17:11:18
 注册成功后无需选择套餐，直接点击“仪表盘”
 点击右侧”验证“按钮，即可获得 Authtoken
 ## 下载 Cpolar Docker 镜像
-因Docker Hub及国内镜像镜像均无法使用，通过 [[Docker Image 网页下载]] 方案下载镜像为Tar
+因Docker Hub及国内镜像镜像均无法使用，通过 [Docker Image 网页下载](https://fish119.vercel.app/2024/09/03/37254cb8d53d/) 方案下载镜像为Tar
 镜像名称：probezy/cpolar
 ## Docker 安装运行镜像
 [Cpolar官方文档](https://www.cpolar.com/blog/docker-container-installation-cpolar)
