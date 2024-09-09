@@ -35,7 +35,8 @@ chmod 700 ./install-frps.sh
 - log_file: 默认
 - tcp_mux: 默认
 - kcp support: 默认
-安装启动完成后显示 frps 信息如下：
+
+**安装启动完成后显示 frps 信息如下：**
 You Server IP      : 公网服务器实例 IP
 Bind port          : 5443
 vhost http port    : 8880
