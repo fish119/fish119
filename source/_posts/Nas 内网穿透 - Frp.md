@@ -8,6 +8,8 @@ categories:
   - 小技巧
 
 ---
+记录绿联 Nas 使用 Frp 进行内网穿透的过程
+<!--more-->
 >[!Success] 使用体验：推荐
 > 需要一台公网服务器，速度较快，稳定性尚可，推荐
 # frp server
