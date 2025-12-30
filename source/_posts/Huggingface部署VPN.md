@@ -7,6 +7,8 @@ tags:
 - 小技巧 date: 2025-12-30 14:05:59
 
 ---
+使用Huggingface 部署VPN，使用CloudFlare反代域名套 CDN，免费
+<!--more-->
 > [!warning] 使用体验 稳定、免费，但速度较慢
 # HuggingFace部署
 ## 创建HuggingFace空间
@@ -96,3 +98,7 @@ function getRandomArray(array) {
 ENV DOMAIN=自定义的二级域名
 ```
 重新获取订阅地址，更新v2rayN订阅或重新导入即可。
+
+参考：
+[Huggingface 部署永久免费高速VPN节点，无限流量，解锁ChatGPT, 奈飞，油管等，无需保活](https://www.nodeloc.com/t/topic/67074/3)
+[Youtube视频](https://www.youtube.com/watch?v=XERxg9AODeo)
