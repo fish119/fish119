@@ -1,10 +1,13 @@
 title: Huggingface 部署VPN
+
 tags:
-- VPN
-- v2ray
-- Cloudflare
-- Huggingface categories:
-- 小技巧 date: 2025-12-30 14:05:59
+	- VPN
+	- v2ray
+	- Cloudflare
+	- Huggingface 
+categories:
+	- 小技巧 
+date: 2025-12-30 14:05:59
 
 ---
 使用Huggingface 部署VPN，使用CloudFlare反代域名套 CDN，免费
