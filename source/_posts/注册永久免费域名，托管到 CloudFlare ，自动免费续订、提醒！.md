@@ -1,12 +1,12 @@
-title: 注册永久免费域名，托管到 CloudFlare ，自动免费续订、提醒！
+title: 注册永久免费域名，托管到 Cloudflare ，自动免费续订、提醒！
 tags:
-  - CloudFlare
+  - Cloudflare
   - 域名
 categories:
   - VPN
 date: 2025-12-30 17:23:11
 ---
-非常不错的免费域名注册方案，来自非盈利组织：digitalplat，申请注册后可以直接托管到CloudFlare 平台上进行管理使用。同时使用SubsTracker实现续订提醒。
+非常不错的免费域名注册方案，来自非盈利组织：digitalplat，申请注册后可以直接托管到Cloudflare 平台上进行管理使用。同时使用SubsTracker实现续订提醒。
 <!--more-->
 # 免费域名申请
 - 地址：[digitalplat](https://digitalplat.org/)
@@ -27,7 +27,7 @@ digitalplat 提供的域名免费政策为：Free if less than 180 days left. Us
 > [!NOTE] Free
 > Free if less than 180 days left. Use a key to add 2 years anytime.
 ## 订阅提醒部署
-1. **CloudFlare 创建 KV 空间**
+1. **Cloudflare 创建 KV 空间**
 	在Cloudflare 点击左侧：存储和数据库 – KV -创建KV – 用户和键值都填写： SUBSCRIPTIONS_KV
 2. **Cloudflare 创建 worker**
 	-  登陆Cloudflare，使用”Hello World !”模板创建worker，部署完成后编辑代码

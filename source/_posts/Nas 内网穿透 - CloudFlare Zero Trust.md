@@ -1,4 +1,4 @@
-title: Nas 内网穿透 - CloudFlare Zero Trust
+title: Nas 内网穿透 - Cloudflare Zero Trust
 
 tags:
   - Nas
@@ -17,7 +17,7 @@ date: 2024-09-09 20:43:11
 [US.KG 获取一个永久免费二级域名并托管到 Cloudflare](https://register.us.kg)
 ***
 # 开启Zero Trust
-1. 在 [Cloudflare Dashboard](https://dash.cloudflare.com/) 中选择 "Zero Trust"
+1. 在 [Cloudflare Dashboard](https://dash.Cloudflare.com/) 中选择 "Zero Trust"
 2. 在新页面中选择 Plan 为 Free
 3. 添加付款方式，不会扣款，免费
 4. 等待完成即可
@@ -36,7 +36,7 @@ date: 2024-09-09 20:43:11
 2. Nas / Docker / 镜像 / 本地镜像 / 添加本地镜像 / 从NAS导入 即可
 3. SSH 连接至 Nas，运行以下命令
 ```bash
-docker run cloudflare/cloudflared:latest tunnel --no-autoupdate run --token eyJhIjoiYTQ0MzViZmNiM2M5MzViNzE4OTM5MzA2NDZhOTlmYzAiLCJ0IjoiNTgxYzRiOGUtOTgxYy00Y2JhLWE0YWItZDdkMTBiZWMyOGVhIiwicyI6Ik5UZ3dOR00zTldRdE9ESXpaUzAwTWpBMExUZ3paV1V0WW1VMFkyTTJZV0V3TXpFeiJ9
+docker run Cloudflare/Cloudflared:latest tunnel --no-autoupdate run --token eyJhIjoiYTQ0MzViZmNiM2M5MzViNzE4OTM5MzA2NDZhOTlmYzAiLCJ0IjoiNTgxYzRiOGUtOTgxYy00Y2JhLWE0YWItZDdkMTBiZWMyOGVhIiwicyI6Ik5UZ3dOR00zTldRdE9ESXpaUzAwTWpBMExUZ3paV1V0WW1VMFkyTTJZV0V3TXpFeiJ9
 ```
 4. 或 Nas / 容器 / 创建容器 / 选择已导入的镜像 / 确定 / 配置参数 --token即可
 # 验证与 Cloudflare 维护

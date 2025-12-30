@@ -10,7 +10,7 @@ categories:
 date: 2025-12-30 14:05:59
 
 ---
-使用Huggingface 部署VPN，使用CloudFlare反代域名套 CDN，免费
+使用Huggingface 部署VPN，使用Cloudflare反代域名套 CDN，免费
 <!--more-->
 > [!warning] 使用体验 稳定、免费，但速度较慢
 # HuggingFace部署
@@ -67,7 +67,7 @@ v2rayN中直接添加该订阅即可。也可浏览器访问该地址，复制�
 - 登录Cloudflare，选择”计算和AI / Workers 和 Pages“
 - 选择”创建应用程序 / 从 Hello World! 开始“
 - 输入名称，部署
-- 完成后编辑代码，返回github仓库，找到”使用cloudflare workers 或 snippets 反代域名给节点套cdn加速“处的代码，复制到编辑框修改如下：
+- 完成后编辑代码，返回github仓库，找到”使用Cloudflare workers 或 snippets 反代域名给节点套cdn加速“处的代码，复制到编辑框修改如下：
 ```javascript
 export default {
   async fetch(request, env) {
