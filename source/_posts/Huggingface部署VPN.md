@@ -6,7 +6,7 @@ tags:
 	- Cloudflare
 	- Huggingface 
 categories:
-	- 小技巧 
+	- VPN 
 date: 2025-12-30 14:05:59
 
 ---

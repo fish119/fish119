@@ -1,9 +1,9 @@
 title: 注册永久免费域名，托管到 CloudFlare ，自动免费续订、提醒！
 tags:
-  - windows
-categories:
-  - 免费域名
   - CloudFlare
+  - 域名
+categories:
+  - VPN
 date: 2025-12-30 17:23:11
 ---
 非常不错的免费域名注册方案，来自非盈利组织：digitalplat，申请注册后可以直接托管到CloudFlare 平台上进行管理使用。同时使用SubsTracker实现续订提醒。
