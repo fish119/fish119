@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://fish119.tk/sitemap.xml
-Sitemap: https://fish119.tk/baidusitemap.xml

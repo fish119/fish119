@@ -2,22 +2,12 @@
 
 <!--more-->
 
-[Local Admin Url](http://localhost:4000/bridge)
-
 [Visite](https://fish119.vercel.app)
+
+[Visite Domain](https://blog.fish119.site)
 
 [Deploy: vercel](https://vercel.com/dashboard)
 
-[Tool: Hexo](https://hexo.io)
+[Tool: Hexo](https://github.com/hexojs)
 
-[Theme：Next](https://theme-next.js.org)
-
-[Plugin: category](https://github.com/hexojs/hexo-generator-category)
-
-[Plugin: rss](https://github.com/hexojs/hexo-generator-feed)
-
-[Plugin: localsearch](https://github.com/next-theme/hexo-generator-searchdb)
-
-[Plugin: localsearch](https://github.com/next-theme/hexo-generator-searchdb)
-
-[Plugin: admin](https://github.com/DeepSpaceHarbor/hexo-bridge)
+[Theme：Next](https://github.com/next-theme/hexo-theme-next)
