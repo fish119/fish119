@@ -11,6 +11,8 @@ date: 2025-12-30 14:05:59
 
 ---
 使用Huggingface 部署VPN，使用Cloudflare反代域名套 CDN，免费
+
+**20260115：有可能被封号!!!**
 <!--more-->
 > [!warning] 使用体验 稳定、免费，但速度较慢
 # HuggingFace部署
