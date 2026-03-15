@@ -62,7 +62,7 @@ date: 2026-03-15 21:20:00
 
 `/orchestrate` 不是"高级的 `/create`"，它是一个**项目经理**：把你的需求拆解成子任务，然后依次调度 `frontend-specialist`、`backend-specialist`、`database-architect`、`security-auditor`、`test-engineer` 等专家顺序执行，最后合并验证。
 
-![](C:\Users\fish119\AppData\Roaming\marktext\images\2026-03-15-21-15-53-image.png)
+![](/uploads/20260315/0101.png)
 
 全栈项目里，每个功能都会同时触碰前端+后端+数据库，因此 `/orchestrate` 是你在执行阶段应该形成肌肉记忆的命令。
 
