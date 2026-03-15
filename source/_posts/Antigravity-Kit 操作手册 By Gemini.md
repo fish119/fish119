@@ -1,13 +1,11 @@
-title: Antigravity-kit 学习笔记 By Gemini
+title: Antigravity-kit 操作手册 By Gemini
 tags:
-
-- Vibe Coding
-- Antigravity
+  - Vibe Coding
+  - Antigravity
   categories:
-- Vibe Coding
-- Antigravity
-  date: 2026-03-15 21:19:00
-
+  - Vibe Coding
+  - Antigravity
+date: 2026-03-15 21:19:00
 ---
 
 最近在使用 Google Antigravity 进行 Vibe Coding，看到了一个有意思的工具：[antigravity-kit](https://github.com/vudovn/antigravity-kit) ，于是分别利用 Claude 和 Gemini 制作了操作手册，这一份是 Gemini 的
