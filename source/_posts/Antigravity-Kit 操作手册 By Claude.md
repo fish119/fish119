@@ -2,7 +2,7 @@ title: Antigravity-kit 操作手册 By Gemini
 tags:
   - Vibe Coding
   - Antigravity
-  categories:
+categories:
   - Vibe Coding
   - Antigravity
 date: 2026-03-15 21:20:00

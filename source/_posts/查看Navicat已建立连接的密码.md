@@ -1,12 +1,10 @@
 title: 查看Navicat已建立连接的密码
 tags:
-
-- windows
-- Navicat
-  categories:
-- 小技巧
-  date: 2021-12-23 15:31:46
-
+    - windows
+    - Navicat
+categories:
+    - 小技巧
+date: 2021-12-23 15:31:46
 ---
 
 # 注册表查看加密后的密码

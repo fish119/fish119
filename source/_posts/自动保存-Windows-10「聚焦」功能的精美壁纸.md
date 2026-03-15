@@ -1,11 +1,9 @@
 title: 自动保存 Windows 10「聚焦」功能的精美壁纸
 tags:
-
-- windows
-  categories:
-- 小技巧
-  date: 2022-01-06 20:43:11
-
+  - windows
+categories:
+  - 小技巧
+date: 2022-01-06 20:43:11
 ---
 
 作为 Windows 10 内置的「锁屏壁纸自动换」功能，「Windows 聚焦」不仅具有高质量壁纸，还有着随使用过程而不断提高的壁纸筛选能力。如何将「Windows 聚焦」图片变成Windows10的壁纸，并自动切换呢？思路如下：
