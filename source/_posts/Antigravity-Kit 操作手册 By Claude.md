@@ -1,4 +1,4 @@
-title: Antigravity-kit 操作手册 By Gemini
+title: Antigravity-kit 操作手册 By Claude
 tags:
   - Vibe Coding
   - Antigravity
