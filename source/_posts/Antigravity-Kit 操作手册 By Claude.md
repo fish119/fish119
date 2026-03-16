@@ -1,12 +1,13 @@
 title: Antigravity-kit 操作手册 By Claude
 tags:
+  - Vibe Coding
+  - Antigravity
+  
+categories:
+  - Vibe Coding
+  - Antigravity
 
-- Vibe Coding
-- Antigravity
-  categories:
-- Vibe Coding
-- Antigravity
-  date: 2026-03-15 21:20:00
+date: 2026-03-15 21:20:00
 
 ---
 
